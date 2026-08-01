@@ -23,4 +23,3 @@ elif [ "$OS" = "debian" ] && [ "$VER" = "13" ]; then
 else
     echo "[错误] 仅支持 Debian 12 或 13，当前系统为 $OS $VER"
     exit 1
-fi
