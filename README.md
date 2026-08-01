@@ -5,7 +5,7 @@
 ## 一键执行（推荐）
 以 root 身份运行：
 ```bash
-bash <(curl -sL https://github.com/Samzzj/vps-3xui-Network-optimization/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/Samzzj/vps-3xui-Network-optimization/main/install.sh)
 手动操作
 仅 Debian 12：bash debian12.sh apply
 
